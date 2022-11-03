@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        
+        "/storage/yzhao/miniconda3/envs/vlt5/lib/python3.7/site-packages",
+    ],
+    "python.pythonPath": [],
+    "python.analysis.extraPaths": [
+        "/storage/yzhao/miniconda3/envs/vlt5/lib/python3.7/site-packages",
+    ]
+}
